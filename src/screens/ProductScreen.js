@@ -1,13 +1,13 @@
-import Header from "../components/Header/Header"
-import ProductDetails from "../components/ProductDetails/ProductDetails"
+import Header from "../components/Header/Header";
+import ProductDetails from "../components/ProductDetails/ProductDetails";
 
 const ProductScreen = () => {
-    return (
-        <>
-        <Header/>
-        <ProductDetails/>
-        </>
-    )
-}
+  return (
+    <>
+      <Header />
+      <ProductDetails />
+    </>
+  );
+};
 
-export default ProductScreen
+export default ProductScreen;
